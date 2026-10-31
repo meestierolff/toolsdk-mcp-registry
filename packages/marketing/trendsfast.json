@@ -13,11 +13,7 @@
       "url": "https://trendsfast.com/api/mcp/v3",
       "auth": {
         "type": "oauth2",
-        "scopes": [
-          "trends:read",
-          "trends:query",
-          "credits:read"
-        ]
+        "scopes": ["trends:read", "trends:query", "credits:read"]
       }
     }
   ]
